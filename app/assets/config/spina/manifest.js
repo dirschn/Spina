@@ -1,4 +1,4 @@
-//= link_tree ../../images/spina
+//= link_tree ../../images
 //= link_tree ../../fonts/spina
 
 //= link_directory ../../javascripts/spina/controllers

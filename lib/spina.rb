@@ -45,7 +45,7 @@ module Spina
   self.api_key = nil
   self.api_path = "api"
   self.authentication = "Spina::Authentication::Sessions"
-  self.backend_title = "Spina CMS"
+  self.backend_title = "DirschMS"
   self.backend_path = "admin"
   self.disable_frontend_routes = false
   self.disable_decorator_load = false
